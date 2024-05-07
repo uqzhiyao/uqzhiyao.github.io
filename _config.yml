@@ -12,7 +12,7 @@ title                    : "Zhiyao Wang's Personal Page"
 title_separator          : " "
 name                     : &name "Zhiyao Wang (王志尧）"
 description              : &description "Research Fellow at University of Queensland"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://uqzhiyao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_5396.jpg"
+  avatar           : "profile.png"
   name             : "Zhiyao WANG"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
