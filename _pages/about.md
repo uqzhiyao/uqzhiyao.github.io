@@ -30,5 +30,5 @@ Working Experience
 
 **Postdoctoral Research Fellow**, University of Queensland, 06/2021 - 04/2024
 
-**Industrial placement**, Urban Utilities, Brisbane, Australia, 06/2020 - 09/2020
+**Industrial Placement**, Urban Utilities, Brisbane, Australia, 06/2020 - 09/2020
 	
