@@ -39,7 +39,9 @@ author_profile: true
 ---
 
 1.	**_Wang, Z._**, Zheng, M., Hu, S., Yuan, Z. Method for treating wastewater or sludge. PCT/AU2020/050293. [](https://patentimages.storage.googleapis.com/18/a3/d8/96ea315d5fbf69/WO2020237283A1.pdf)
-2. 
+2.  郑平，单晓雨，**_王志尧_**，厉巍。一种渗流自充氧菌毯短程硝化反应器，实用新型专利，
+CN203999127U。
+3.   郑平，单晓雨，**_王志尧_**，厉巍。渗流自充氧菌毯短程硝化反应器及其废水处理方法，发明专利（授权），CN104192986B。
  
 
 
