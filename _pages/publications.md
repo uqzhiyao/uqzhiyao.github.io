@@ -15,7 +15,7 @@ author_profile: true
 1.	**_Wang, Z._**, Lu, X., Zhang, X., Yuan, Z., Zheng, M., Hu, S. (2024) Ammonium-Based Bioleaching of Toxic Metals from Sewage Sludge in a Continuous Bioreactor. Water Research, 121651. [link](https://www.sciencedirect.com/science/article/pii/S0043135424005529)
 2.	**_Wang, Z._**, Lu, X., Zheng, M., Hu, Z., Batstone, D., Yuan, Z., Hu, S. (2024) Quadrupling the capacity of post aerobic digestion treating anaerobically digested sludge using a moving-bed biofilm (MBBR) configuration. Water Research X, 100240. [link](https://www.sciencedirect.com/science/article/pii/S2589914724000306)
 3.	Kong, Z., **_Wang, Z._**,* Lu, X., Song, Y., Yuan, Z., Hu, S. (2024) Significant in situ sludge yield reduction in an acidic activated sludge system. Water Research, 122042. [link](https://www.sciencedirect.com/science/article/pii/S0043135424009424)
-4.	**_Wang, Z._**, Zheng, M., Duan, H., Yuan, Z. and Hu, S. (2022) A 20-Year Journey of Partial Nitritation and Anammox (PN/A): from Sidestream toward Mainstream. Environmental Science & Technology, 56 (12), 7522–7531. [ESI highly cited, link](https://pubs.acs.org/doi/full/10.1021/acs.est.1c06107)
+4.	**_Wang, Z._**, Zheng, M., Duan, H., Yuan, Z. and Hu, S. (2022) A 20-Year Journey of Partial Nitritation and Anammox (PN/A): from Sidestream toward Mainstream. Environmental Science & Technology, 56 (12), 7522–7531. [ESI highly cited link](https://pubs.acs.org/doi/full/10.1021/acs.est.1c06107)
 5.	**_Wang, Z._**, Zheng, M., Duan, H., Hu, S. and Yuan, Z. (2022) Re-configuring mainstream anammox. Chemical Engineering Journal, 445, 136817.[link](https://www.sciencedirect.com/science/article/pii/S1385894722023129)
 6.	**_Wang, Z._** (2022) Using a New Acid-tolerant Bacteria to Improve Sludge Management. Water e-journal 6(3), 1–6. [link](https://web.archive.org/web/20220427171505id_/https://f.hubspotusercontent30.net/hubfs/14568786/Water%20e-journal/202108_006_003_018_Using%20a%20New%20Acid-tolerant%20Bacteria%20to%20Improve%20Sludge%20Management.pdf)
 7.	**_Wang, Z._**, Liu, T., Duan, H., Song, Y., Lu, X., Hu, S., Yuan, Z., Batstone, D., Zheng, M. (2021). Post-treatment options for anaerobically digested sludge: current status and future prospect. Water Research, 117665. [link](https://www.sciencedirect.com/science/article/pii/S0043135421008605)
@@ -30,6 +30,17 @@ author_profile: true
 16.	**_Wang, Z._**, Shan, X., Li, W., Chen, H., Zhang, M., Zheng, P. (2016) Robustness of ANAMMOX granule sludge bed reactor: effect and mechanism of organic matter interference. Ecological Engineering, 91, 131-138. [link](https://www.sciencedirect.com/science/article/pii/S0925857416301173)
 17.	**_Wang, Z._**, Chen, W., Zheng, P. (2016) The Application of Fractal Theory in ANAMMOX Granule Sludge Blanket Bioreactor. Bulletin of Science and Technology, 32(12), 216-220. [link](https://edu.alljournals.cn/view_abstract.aspx?pcid=b5edd921f3d863e289b22f36e70174a7007b5f5e43d63598017d41bb67247657&cid=b47b31f6349f979b&jid=1402dc8e310fa70b472d328379e7aede&aid=3cd37a1bc5216b2c24bf1f465a073e46&yid=9f915c6f01de79c5&iid=59906b3b2830c2c5&referenced_num=)
 
+## Book chapters
+---
+
+1.	Wang, Q., Wei, J., Liu, H., Wang, D., Nghiem, L., **_Wang, Z._** (2020) Chapter 11: Improving bioenergy recovery from anaerobic digestion of sewage sludge (Eds. Nogo, G., Zhang, S.). New York: Wiley. [link](https://books.google.com.au/books?hl=en&lr=&id=oEUoEAAAQBAJ&oi=fnd&pg=PA275&dq=info:IN7r-8eAjmoJ:scholar.google.com&ots=415DQmliXj&sig=zMVlIIegew5DlIM-2LXRss8gHMs&redir_esc=y#v=onepage&q&f=false)
+
+## Patents
+---
+
+1.	**_Wang, Z._**, Zheng, M., Hu, S., Yuan, Z. Method for treating wastewater or sludge. PCT/AU2020/050293. [](https://patentimages.storage.googleapis.com/18/a3/d8/96ea315d5fbf69/WO2020237283A1.pdf)
+2. 
+ 
 
 
 
