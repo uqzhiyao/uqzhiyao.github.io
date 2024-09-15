@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am holding a joint position of Research Fellow at Australian Centre for Water and Environmental Biotechnology, University of Queensland. My research interests include  innovative nutrient removal and recovery technologies, reduction of greenhouse gases emissions, novel microorganisms and physiochemical reactions related to nitrogen conversion.
+I am holding a joint position of *Research Fellow* at Australian Centre for Water and Environmental Biotechnology, University of Queensland. My research interests include  *innovative nutrient removal and recovery (NRR) technologies, reduction of greenhouse gases (GHG) emissions, nitrogen-related novel microorganisms and physiochemical reactions*.
 
 Education
 ---
