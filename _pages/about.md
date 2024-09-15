@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a 
+I am holding a joint position of Research Fellow at Australian Centre for Water and Environmental Biotechnology, University of Queensland. My research interests include  innovative nutrient removal and recovery technologies, reduction of greenhouse gases emissions, novel microorganisms and physiochemical reactions related to nitrogen conversion.
 
 Education
 ---
@@ -19,6 +19,8 @@ Education
 
 **B.Eng.** in Environmental Engineering, Zhejiang University,China, 19/2012 - 07/2016.
 * Chu Kochen Honour Degree in Advanced Engineering
+* Supervisor: Prof. Ping Zheng
+* Thesis: The application of fractal theory in Anammox Granular sludge
 
 
 Working Experience
