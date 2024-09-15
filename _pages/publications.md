@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-#### Journal Papers (First and corresponding authorships)
+## Journal Papers (First and corresponding authorships)
 ---
 
 **Ph.D.** in Environmnetal Engineering, The University of Queesland, Australia, 10/2016 - 06/2021.
