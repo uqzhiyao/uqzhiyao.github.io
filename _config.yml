@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhiyao Wang's Personal Page"
+title                    : "Welcome to Zhiyao Wang's Personal Page"
 title_separator          : "-"
 name                     : &name "Zhiyao WANG"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "uqzhiyao/uqzhiyao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhiyao WANG"
+  name             : "Zhiyao WANG (王志尧)"
   pronouns         : "she/her"  
   bio              : "Research Fellow"
   location         : "Brisbane, Australia"
