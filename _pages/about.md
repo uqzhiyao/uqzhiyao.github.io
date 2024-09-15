@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am holding a joint position of *Research Fellow* at Australian Centre for Water and Environmental Biotechnology and School of Chemical Engineering. My research interests include  *innovative nutrient removal and recovery (NRR) technologies, reduction of greenhouse gases (GHG) emissions, nitrogen-related novel microorganisms and physiochemical reactions*.
+I am holding a joint position of *Research Fellow* at Australian Centre for Water and Environmental Biotechnology and School of Chemical Engineering. My research interests include  **_innovative nutrient removal and recovery (NRR) technologies, reduction of greenhouse gases (GHG) emissions, nitrogen conversion-related novel microorganisms and physiochemical reactions_**.
 
 Education
 ---
