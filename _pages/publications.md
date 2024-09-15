@@ -12,9 +12,24 @@ author_profile: true
 ## Journal Papers (First and corresponding authorships)
 ---
 
-**Ph.D.** in Environmnetal Engineering, The University of Queesland, Australia, 10/2016 - 06/2021.
-* Supervisor: Prof. Zhiguo Yuan.
-* Thesis: Innovative nitrogen conversion to enhance wastewater and sludge management
+1.	**_Wang, Z._**, Lu, X., Zhang, X., Yuan, Z., Zheng, M., Hu, S. (2024) Ammonium-Based Bioleaching of Toxic Metals from Sewage Sludge in a Continuous Bioreactor. Water Research, 121651. [](https://www.sciencedirect.com/science/article/pii/S0043135424005529)
+2.	**_Wang, Z._**, Lu, X., Zheng, M., Hu, Z., Batstone, D., Yuan, Z., Hu, S. (2024) Quadrupling the capacity of post aerobic digestion treating anaerobically digested sludge using a moving-bed biofilm (MBBR) configuration. Water Research X, 100240.
+3.	Kong, Z., **_Wang, Z._**,* Lu, X., Song, Y., Yuan, Z., Hu, S. (2024) Significant in situ sludge yield reduction in an acidic activated sludge system. Water Research, 122042.
+4.	**_Wang, Z._**, Zheng, M., Duan, H., Yuan, Z. and Hu, S. (2022) A 20-Year Journey of Partial Nitritation and Anammox (PN/A): from Sidestream toward Mainstream. Environmental Science & Technology, 56 (12), 7522–7531. [ESI highly cited]
+5.	**_Wang, Z._**, Zheng, M., Duan, H., Hu, S. and Yuan, Z. (2022) Re-configuring mainstream anammox. Chemical Engineering Journal, 445, 136817.
+6.	**_Wang, Z._** (2022) Using a New Acid-tolerant Bacteria to Improve Sludge Management. Water e-journal 6(3), 1–6.
+7.	**_Wang, Z._**, Liu, T., Duan, H., Song, Y., Lu, X., Hu, S., Yuan, Z., Batstone, D., Zheng, M. (2021). Post-treatment options for anaerobically digested sludge: current status and future prospect. Water Research, 117665.
+8.	**_Wang, Z._**, Zheng, M., Hu, Z., Duan, H., De Clippeleir, H., Al-Omari, A., Hu, S., Yuan, Z. (2021). Unravelling adaptation of nitrite-oxidizing bacteria in mainstream PN/A process: mechanisms and counter-strategies. Water Research, 117239.
+9.	**_Wang, Z._**, Ni, G., Xia, J., Song, Y., Hu, S., Yuan, Z., Zheng, M. (2021). Bioleaching of toxic metals from anaerobically digested sludge without external chemical addition. Water Research, 117211.
+10.	**_Wang, Z._**, Zheng, M., Duan, H., Ni, G., Yu, W., Liu, Y., Yuan, Z., Hu, S. (2021). Acidic aerobic digestion of anaerobically-digested sludge enabled by a novel ammonia-oxidizing bacterium. Water Research, 116962. 
+11.	**_Wang, Z._**, Zheng, M., Meng, J., Hu, Z., Ni, G., Guerrero Calderon, A., Li, H., De Clippeleir, H., Al-Omari, A., Hu, S., Yuan, Z. (2021). Robust nitritation sustained by acid-tolerant ammonia-oxidizing bacteria. Environmental Science & Technology, 55(3), 2048-2056.
+12.	**_Wang, Z._**, Ni, G., Maulani, N., Xia, J., De Clippeleir, H., Hu, S., Yuan, Z., Zheng, M. (2021). Stoichiometric and kinetic characterization of an acid-tolerant ammonia oxidizer ‘Candidatus Nitrosoglobus’. Water Research, 117026. 
+13.	Liu, H., **_Wang, Z._** *, Nghiem, L. D., Gao, L., Zamyadi, A., Zhang, Z., Sun, J., Wang, Q. * (2021). Solid-embedded microplastics from sewage sludge to agricultural soils: detection, occurrence, and impacts. ACS ES&T Water. 1(6), 1322-1333.
+14.	**_Wang, Z._**, Zheng, M., Xue, Y., Xia, J., Zhong, H., Ni, G., Liu, Y., Yuan, Z., Hu, S. (2020) Free ammonia shock treatment eliminates nitrite-oxidizing bacterial activity for mainstream biofilm nitritation process. Chemical Engineering Journal, 124682.
+15.	**_Wang, Z._**, Zheng, P. (2017) Predicting settling performance of ANAMMOX granular sludge based on fractal dimensions. Water Research, 120, 222-228.
+16.	**_Wang, Z._**, Shan, X., Li, W., Chen, H., Zhang, M., Zheng, P. (2016) Robustness of ANAMMOX granule sludge bed reactor: effect and mechanism of organic matter interference. Ecological Engineering, 91, 131-138.
+17.	**_Wang, Z._**, Chen, W., Zheng, P. (2016) The Application of Fractal Theory in ANAMMOX Granule Sludge Blanket Bioreactor. Bulletin of Science and Technology, 32(12), 216-220.
+
 
 
 
