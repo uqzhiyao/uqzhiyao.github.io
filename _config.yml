@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhiyao WANG (王志尧)"
   pronouns         : "she/her"  
-  bio              : "Research Fellow"
+  bio              : "Research Fellow, University of Queensland"
   location         : "Brisbane, Australia"
-  employer         : "University of Queensland"
+  employer         : #"University of Queensland"
   uri              : # URL
   email            : "zhiyao.wang@uq.edu.au" 
 
