@@ -34,5 +34,5 @@ Working Experience
 
 News
 ---
-* 19 Sep 2024. Launching my academic personal page, as a birthday gift to myself. Happy 30th Birthday! Looking forward to populating the page and documenting my academic journey. Better late than never!
+* ***19 Sep 2024**. Launching my academic personal page, as a birthday gift to myself. Happy 30th Birthday! Looking forward to populating the page and documenting my academic journey. Better late than never!*
 
