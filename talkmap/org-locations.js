@@ -35,6 +35,11 @@ var addressPoints = [
     138.5999312
   ],
   [
+    "Copenhagen, Denmark",
+    55.6867243,
+    12.5700724
+  ],
+  [
     "Vienna, Austria",
     48.2083537,
     16.3725042
