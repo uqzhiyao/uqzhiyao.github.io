@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can find my full publication list on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## Journal Papers (First and corresponding authorships)
+## Journal Papers (First and corresponding (*) authorships)
 ---
 
 1.	**_Wang, Z._**, Lu, X., Zhang, X., Yuan, Z., Zheng, M., Hu, S. (2024) Ammonium-Based Bioleaching of Toxic Metals from Sewage Sludge in a Continuous Bioreactor. Water Research, 121651. [link](https://www.sciencedirect.com/science/article/pii/S0043135424005529)
