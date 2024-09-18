@@ -20,6 +20,11 @@ var addressPoints = [
     120.2052342
   ],
   [
+    "Sydney, Australia",
+    -33.8698439,
+    151.2082848
+  ],
+  [
     "Helsinki, Finland",
     60.1674881,
     24.9427473
