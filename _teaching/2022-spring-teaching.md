@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2022-spring-teaching
 venue: "University of Queensland, Advanced Water Management Centre"
-date: 2022 & 2023
+date: 2022
 location: "Brisbane, Australia"
 ---
 
