@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Revolutionising sludge management, turning costly waste into a safe product"
+excerpt: "Cooperative Research Centres Project (AUD 2.5 M) <br/><img src='/images/crcp.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Biosolids from sewage treatment are a problematic waste due to low product quality and high volume. However, biosolids production will substantially increase with population growth and opportunities for co-digestion with organic waste at sewage treatment plants. This CRC-P brings together two major water utilities, world-leading researchers, resource-recycling technology and service providers, and the state government regulatory agency, to develop a suite of market-ready technologies that will (1) substantially increase capacity of existing treatment infrastructure, (2) produce high quality biosolids suitable for unrestricted use as soil fertilizer, and (3) increase bioenergy recovery from wastewater and organic waste.
