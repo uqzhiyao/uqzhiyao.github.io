@@ -1,6 +1,6 @@
 ---
 title: "Model-based analysis of methane emissions data from a Sludge-Drying Lagoon"
-excerpt: "Collaborated industrial project with Melbourne Water Corporation  (AUD 5K, leading CI) <br/><img src='/images/ECR.png'>"
+excerpt: "Collaborated industrial project with Melbourne Water Corporation  (AUD 5K, leading CI) <br/><img src='/images/SDP.png'>"
 collection: portfolio
 ---
 
