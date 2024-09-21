@@ -13,7 +13,7 @@ Education
 ---
 
 **Ph.D.** in Environmnetal Engineering, The University of Queesland, Australia, 10/2016 - 06/2021.
-* Supervisor: Prof. Zhiguo Yuan[Google scholar](https://scholar.google.com.au/citations?user=1IPdGqkAAAAJ&hl=en)
+* Supervisor: Prof. Zhiguo Yuan [Google scholar](https://scholar.google.com.au/citations?user=1IPdGqkAAAAJ&hl=en)
 * Thesis: Innovative nitrogen conversion to enhance wastewater and sludge management
 
 
