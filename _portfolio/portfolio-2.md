@@ -8,3 +8,5 @@ This project aims to increase the capacity of existing wastewater treatment syst
 seeks a space/cost-effective solution via a novel acidic activated-sludge process which requires only marginal retrofits. This novel process is expected to exhibit a better sludge settleability and a lower sludge yield. These two improvements
 will lead to > 50% increase of existing wastewater treatment capacity, thereby bringing direct economic benefits (by deferring plants upgrading) and strengthening the resilience of wastewater infrastructures in response to population
 growth.
+
+<br/><img src='/images/ECR-1.png'>"
