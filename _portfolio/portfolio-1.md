@@ -1,6 +1,6 @@
 ---
 title: "Revolutionising sludge management, turning costly waste into a safe product"
-excerpt: "Cooperative Research Centres Project (AUD 2.5 M) <br/><img src='/images/crcp.png'>"
+excerpt: "Cooperative Research Centres Project (AUD 2.5 M， co-CI) <br/><img src='/images/crcp.png'>"
 collection: portfolio
 ---
 
