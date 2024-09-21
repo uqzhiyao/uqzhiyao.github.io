@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "2024 Teaching"
 collection: teaching
-type: "Workshop"
+type: "undergraduate & postgraduate course"
 permalink: /teaching/2024-autumn-teaching-2
 venue: "University of Queensland, Australian Centre for Water and Environmental Biotechnology"
 date: 2024-10-14
