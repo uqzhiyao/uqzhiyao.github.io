@@ -4,10 +4,10 @@ title: "Beyond Research"
 author_profile: true
 ---
 
-I would like to share someting beyond research in this page.
+I would like to share something beyond research in this page.
 
 ## Video
-Here is a short video explaining my research on'acidic activated sludge'. Check it out!
+Here is a short video explaining my research on'acidic activated sludge. Check it out on [耐酸性氨氧化菌开拓活性污泥工艺运行新边界](https://mp.weixin.qq.com/s/HqQNaZI8qtg2ic3rHaEnCg)
 
 
 ## Blogs
@@ -28,5 +28,19 @@ Some examples:
 [遇事不决，量子力学？](https://mp.weixin.qq.com/s/XKmv-tFvCP4Yc-Zozj3yJA)
 
 [历尽千帆，归来仍是少年](https://mp.weixin.qq.com/s/uBW5TQR1z6WlvMQq5QdvEA)
+
+[匆匆那年——2016](https://mp.weixin.qq.com/s/HHH7MYQ4nZrEROZ55OfIWw)
+
+[再见，布村第一站~](https://mp.weixin.qq.com/s/yjJ7aSBA42rDvVa02Jtswg)
+
+[也说拖延——赠小罗师兄](https://mp.weixin.qq.com/s/T69o-nZZLNTght-F3bP2yg)
+
+[2020年，“大侠”从武侠世界照进现实](https://mp.weixin.qq.com/s/qAzNphNz_85eXNQ8qKeFHQ)
+
+[凡事，都有一个与一望而知，不同的真相](https://mp.weixin.qq.com/s/RZIyWvdOxcIa788IwvMn3g)
+
+[我的小头爸爸](https://mp.weixin.qq.com/s/x1eOf03bVMdY47Lw1FXenQ)
+
+[新年吟啸且徐行](https://mp.weixin.qq.com/s/blnyX04q2_pZ6VmXFUYWxw)
 
 
