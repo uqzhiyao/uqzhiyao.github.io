@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2024-autumn-teaching-2
 venue: "University of Queensland, Australian Centre for Water and Environmental Biotechnology"
-date: 2024
+date: 2024-10-14
 location: "Brisbane, Australia"
 ---
 
