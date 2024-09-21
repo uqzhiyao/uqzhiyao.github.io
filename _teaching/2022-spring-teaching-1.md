@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "2022&2023 Teaching"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2022-spring-teaching-1
