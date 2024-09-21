@@ -4,7 +4,10 @@ excerpt: "Collaborated industrial project with Melbourne Water Corporation  (AUD
 collection: portfolio
 ---
 
-This project aims to increase the capacity of existing wastewater treatment systems via a novel acidic activated-sludge process. Urban population will increase by 2.5 billion in the next 3 decades which will add 50–80% to wastewater production, forecasting a capacity crisis in wastewater management. The current solutions involve either major infrastructures upgrading or physical space expansion, requiring intensive capital/space investments. This project
-seeks a space/cost-effective solution via a novel acidic activated-sludge process which requires only marginal retrofits. This novel process is expected to exhibit a better sludge settleability and a lower sludge yield. These two improvements
-will lead to > 50% increase of existing wastewater treatment capacity, thereby bringing direct economic benefits (by deferring plants upgrading) and strengthening the resilience of wastewater infrastructures in response to population
-growth.
+Melbourne Water is using lagoons for sludge drying at the Eastern Treatment Plant. A dataset of methane emissions from the lagoon has been collected over a 12+ month operational cycle, possibly with more data to be collected in the future. Melbourne Water is seeking support from The University of Queensland in the development of a mathematical model to gain more insights into the in-lagoon physical, chemical and biological processes from the collected data. The model may also be used to support future lagoon operations.
+
+The objectives of this project include:
+
+1) Develop a static model to describe the overall mass balance in the SDP and to validate the emission factor recommended by IPCC;
+2) Develop a dynamic model to describe the temporal variations of methane emissions;
+3) Elucidate the dependence of methane emission on the operational conditions and identify potential mitigation opportunities.
