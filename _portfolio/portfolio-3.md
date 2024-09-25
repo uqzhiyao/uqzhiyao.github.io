@@ -3,8 +3,8 @@ title: "Model-based analysis of methane emissions data from a Sludge-Drying Lago
 excerpt: "Collaborated industrial project with Melbourne Water Corporation  (AUD 5K, leading CI) <br/><img src='/images/SDP.png'>"
 collection: portfolio
 ---
-
-Melbourne Water is using lagoons for sludge drying at the Eastern Treatment Plant. A dataset of methane emissions from the lagoon has been collected over a 12+ month operational cycle, possibly with more data to be collected in the future. Melbourne Water is seeking support from The University of Queensland in the development of a mathematical model to gain more insights into the in-lagoon physical, chemical and biological processes from the collected data. The model may also be used to support future lagoon operations.
+**Partner**: Melbourne Water Corporation, University of Melbourne
+**Project Description**: Melbourne Water is using lagoons for sludge drying at the Eastern Treatment Plant. A dataset of methane emissions from the lagoon has been collected over a 12+ month operational cycle, possibly with more data to be collected in the future. Melbourne Water is seeking support from The University of Queensland in the development of a mathematical model to gain more insights into the in-lagoon physical, chemical and biological processes from the collected data. The model may also be used to support future lagoon operations.
 
 The objectives of this project include:
 
