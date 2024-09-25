@@ -17,7 +17,7 @@ Education
 * Thesis: Innovative nitrogen conversion to enhance wastewater and sludge management
 
 
-**B.Eng.** in Environmental Engineering, Zhejiang University,China, 19/2012 - 07/2016.
+**B.Eng.** in Environmental Engineering, Zhejiang University, China, 09/2012 - 07/2016.
 * Chu Kochen Honour Degree in Advanced Engineering
 * Supervisor: Prof. Ping Zheng [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35231922600)
 * Thesis: The application of fractal theory in Anammox Granular sludge
