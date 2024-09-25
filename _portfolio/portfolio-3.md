@@ -11,3 +11,5 @@ The objectives of this project include:
 1) Develop a static model to describe the overall mass balance in the SDP and to validate the emission factor recommended by IPCC;
 2) Develop a dynamic model to describe the temporal variations of methane emissions;
 3) Elucidate the dependence of methane emission on the operational conditions and identify potential mitigation opportunities.
+
+<br/><img src='/images/SDP.png'>
