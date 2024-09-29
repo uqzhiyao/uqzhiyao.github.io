@@ -47,5 +47,7 @@ Selected Awards
 
 News
 ---
+***30 Sep 2024** Our workshop proposal has been granted. I will be organizing an international workshop on "Pathways to Resource Recovery from Wastewater in the Net-Zero Era", together with Prof. Liu Ye from UQ and Prof. Korad Koch TUM, Germany! Already getting excited!
+*
 * ***19 Sep 2024**. Launching my academic personal page, as a birthday gift to myself. Happy 30th Birthday! Looking forward to populating the page and documenting my academic journey. Better late than never!*
 
