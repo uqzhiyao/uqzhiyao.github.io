@@ -9,6 +9,7 @@ author_profile: true
 
 ## PhD students
 ---
+
 ### Nova Maulani (Associate Adviosr, 50%)
 * 2019-2024
 * Thesis: Isolation and understanding of a novel acid-tolerant heterotrophic denitrifier in acidic wastewater treatment systems
