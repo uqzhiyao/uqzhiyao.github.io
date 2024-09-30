@@ -3,7 +3,7 @@ title: "2020 Teaching"
 collection: teaching
 type: "Online course"
 permalink: /teaching/2020-MOOC course
-venue: "The University of queensland"
+venue: "University of Queensland"
 date: 2020-01-01
 location: "Online Teaching"
 ---
