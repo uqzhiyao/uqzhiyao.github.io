@@ -9,9 +9,9 @@ author_profile: true
 
 ## PhD students
 ---
-### Nova Maulani (Associate Adviosr, 40%)
-* 2019-2024
-* Thesis: Isolation and understanding of a novel acid-tolerant heterotrophic denitrifier in acidic wastewater treatment systems
+* **Nova Maulani (Associate Adviosr, 40%)
+**	* 2019-2024
+	* Thesis: Isolation and understanding of a novel acid-tolerant heterotrophic denitrifier in acidic wastewater treatment systems
 ### Xi Lu (Principal Advisor, 60%)
 * 2021-2025
 * Thesis: Aerobic digestion of secondary sludge at acidic pH:fundamental understanding and practical application
