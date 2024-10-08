@@ -47,6 +47,8 @@ Selected Awards
 
 News
 ---
+* ***7 Oct 2024**. Our paper "Surface-adhered Micro-bubbles Enhance the Resistance of ANAMMOX Granular Sludge to Sulfamethoxazole Stress" has been accepted by Environmental Science & Technology. This is my first paper as the last senior author!*
+
 * ***30 Sep 2024**. Our workshop proposal has been granted. I will be organizing an international workshop, together with Prof. Liu Ye from UQ and Prof. Korad Koch from TUM, Germany, on "Pathways to Resource Recovery from Wastewater in the Net-Zero Era"! Already getting excited!*
 * ***19 Sep 2024**. Launching my academic personal page, as a birthday gift to myself. Happy 30th Birthday! Looking forward to populating the page and documenting my academic journey. Better late than never!*
 
