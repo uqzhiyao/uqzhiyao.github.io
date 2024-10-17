@@ -12,7 +12,7 @@ author_profile: true
 ## Journal Papers (First and corresponding (*) authorships)
 ---
 
-* Xu, D., Pan, C., Chen, W., Zheng, P., Zhang, M, **_Wang, Z._*** (2024) Surface-adhered Micro-bubbles Enhance the Resistance of ANAMMOX Granular Sludge to Sulfamethoxazole Stress. Environmental Science & Technology. [link](https://doi.org/10.1021/acs.est.4c09429)
+* Xu, D., Pan, C., Chen, W., Zheng, P., Zhang, M, _**_Wang, Z._**_* (2024) Surface-adhered Micro-bubbles Enhance the Resistance of ANAMMOX Granular Sludge to Sulfamethoxazole Stress. *Environmental Science & Technology*. [link](https://doi.org/10.1021/acs.est.4c09429)
 * **_Wang, Z._**, Lu, X., Zhang, X., Yuan, Z., Zheng, M., Hu, S. (2024) Ammonium-Based Bioleaching of Toxic Metals from Sewage Sludge in a Continuous Bioreactor. Water Research, 121651. [link](https://www.sciencedirect.com/science/article/pii/S0043135424005529)
 * **_Wang, Z._**, Lu, X., Zhang, X., Yuan, Z., Zheng, M., Hu, S. (2024) Ammonium-Based Bioleaching of Toxic Metals from Sewage Sludge in a Continuous Bioreactor. Water Research, 121651. [link](https://www.sciencedirect.com/science/article/pii/S0043135424005529)
 * **_Wang, Z._**, Lu, X., Zheng, M., Hu, Z., Batstone, D., Yuan, Z., Hu, S. (2024) Quadrupling the capacity of post aerobic digestion treating anaerobically digested sludge using a moving-bed biofilm (MBBR) configuration. Water Research X, 100240. [link](https://www.sciencedirect.com/science/article/pii/S2589914724000306)
