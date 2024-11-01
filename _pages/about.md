@@ -39,7 +39,7 @@ Selected Awards
 
 2022 **Best Ph.D. Thesis Award**, awarded by Journal Water, Only one doctor thesis per annum. [link](https://acweb.uq.edu.au/article/2022/03/acweb-student-takes-home-water-journal-2021-best-thesis-award)
 
-2021 **National Student Water Prize**, Australian Water Association, one in Asutralia per annum (First time awarded to UQ researchers) [link](https://acweb.uq.edu.au/article/2021/12/phd-postdoc-journey-so-far)
+2021 **National Student Water Prize**, Australian Water Association, one in Australia per annum (First time awarded to UQ researchers) [link](https://acweb.uq.edu.au/article/2021/12/phd-postdoc-journey-so-far)
 
 2021 **UQ Dean's Award for Outstanding PhD Theses**, University of Queensland. [< 10% of research higher degree graduates are recognised each year]
 
