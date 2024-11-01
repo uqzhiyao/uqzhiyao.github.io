@@ -37,7 +37,7 @@ Selected Awards
 
 2022 **Outstanding Doctoral Dissertation Award** (Honourable Mention), Association of Environmental Engineering and Science Professors (AEESP). One of the most prestigious PhD thesis award in the field of Environmental Science and Technology. I was the only awardee outside the United States of the year. [link](https://www.aeesp.org/news/2022-aeesp-award-recipients)
 
-2022 **Best Ph.D. Thesis Award**, awarded by Journal Water, Only one doctor thesis per annum. [link](https://acweb.uq.edu.au/article/2022/03/acweb-student-takes-home-water-journal-2021-best-thesis-award)
+2022 **Best Ph.D. Thesis Award**, awarded by Journal Water. Only one doctoral thesis is recognized worldwide per annum. [link](https://acweb.uq.edu.au/article/2022/03/acweb-student-takes-home-water-journal-2021-best-thesis-award)
 
 2021 **National Student Water Prize**, Australian Water Association, one in Australia per annum (First time awarded to UQ researchers) [link](https://acweb.uq.edu.au/article/2021/12/phd-postdoc-journey-so-far)
 
