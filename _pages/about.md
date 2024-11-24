@@ -47,8 +47,8 @@ Selected Awards
 
 News
 ---
-* ***22 Nov 2024***. Wrapped up the UQ-TUM workshop on Pathways to Resource Recovery from Wastewater in the Net-Zero Era. Many insights and heated debates on the conflicts between resources recovery & net zero among 10+ experts in the field.<br/><img src='/images/UQ_TUM workshop.jpg'>
-* ***20 Nov 2024***. Wrapped up the IWA NRR24 Conference in Brisbane—a milestone for me as it was my first time helping to organize an international conference. Adding to the excitement, my first PhD student, Mr. Xi Lu, won the 'Best Poster Pitch Award.' I couldn't be prouder! Even more thrilled than if I had won the award myself!
+* ***22 Nov 2024***. Wrapped up the UQ-TUM workshop on Pathways to Resource Recovery from Wastewater in the Net-Zero Era. Many insights and heated debates on the conflicts between resources recovery & net zero.<br/><img src='/images/UQ_TUM workshop.jpg'>
+* ***20 Nov 2024***. Wrapped up the IWA NRR24 Conference in Brisbane—a milestone for me as it was my first time helping to organize an international conference. Adding to the excitement, my first PhD student, Mr. Xi Lu, won the 'Best Poster Pitch Award.' I couldn't be prouder! Even more thrilled than if I had won the award myself! <br/><img src='/images/NRR24.jpg'>
 * ***15 Oct 2024***. I was invited to give a presentation at the 3rd International Outstanding Young Scholars Environment Forum, hosted by School of Environment,Tsinghua University.
 * ***7 Oct 2024***. Our paper "Surface-adhered Micro-bubbles Enhance the Resistance of ANAMMOX Granular Sludge to Sulfamethoxazole Stress" has been accepted by Environmental Science & Technology. This is my first paper as the last senior author! [Link](https://doi.org/10.1021/acs.est.4c09429).
 * ***30 Sep 2024***. Our workshop proposal has been granted. I will be organizing an international workshop, together with Prof. Liu Ye from UQ and Prof. Korad Koch from TUM, Germany, on "Pathways to Resource Recovery from Wastewater in the Net-Zero Era"! Already getting excited!
