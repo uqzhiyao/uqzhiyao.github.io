@@ -48,7 +48,7 @@ Selected Awards
 
 News
 ---
-* ***29 Nov 2024***. I am so honored to recieve the Early Career Research  Award from the EAIT Faculty.<br/><img src='/images/ECR_Award.jpg>
+* ***29 Nov 2024***. I am so honored to recieve the Early Career Research  Award from the EAIT Faculty.<br/><img src='/images/ECR_Award.jpg' alt="Description" style="width:300px; height:auto;">
 * ***22 Nov 2024***. Wrapped up the UQ-TUM workshop on Pathways to Resource Recovery from Wastewater in the Net-Zero Era. Many insights and heated debates on the conflicts between resources recovery & net zero.<br/><img src='/images/UQ_TUM workshop.jpg'>
 * ***20 Nov 2024***. Wrapped up the IWA NRR24 Conference in Brisbane—a milestone for me as it was my first time helping to organize an international conference. Adding to the excitement, my first PhD student, Mr. Xi Lu, won the 'Best Poster Pitch Award.' I couldn't be prouder! Even more thrilled than if I had won the award myself! <br/><img src='/images/NRR24.jpg'>
 * ***15 Oct 2024***. I was invited to give a presentation at the 3rd International Outstanding Young Scholars Environment Forum, hosted by School of Environment,Tsinghua University.
