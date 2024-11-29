@@ -34,6 +34,7 @@ Working Experience
 
 Selected Awards
 ---
+2024 **Early Career Research Excellence Award**, UQ Faulty of Enigneering, Architecture & Information Technology [Highly competitive, 1 out of > 100 ECRs from 7 shcools/centers in the faulcty].
 
 2022 **Outstanding Doctoral Dissertation Award** (Honourable Mention), Association of Environmental Engineering and Science Professors (AEESP). One of the most prestigious PhD thesis award in the field of Environmental Science and Technology. The only non-US recipient over the past 10 years. [link](https://www.aeesp.org/news/2022-aeesp-award-recipients)
 
@@ -47,6 +48,7 @@ Selected Awards
 
 News
 ---
+* ***29 Nov 2024***. I am so honored to recieve the UQ EAIT Award for Research Excellence (Early Career Research category).<br/><img src='/images/ECR_Award.jpg'>
 * ***22 Nov 2024***. Wrapped up the UQ-TUM workshop on Pathways to Resource Recovery from Wastewater in the Net-Zero Era. Many insights and heated debates on the conflicts between resources recovery & net zero.<br/><img src='/images/UQ_TUM workshop.jpg'>
 * ***20 Nov 2024***. Wrapped up the IWA NRR24 Conference in Brisbane—a milestone for me as it was my first time helping to organize an international conference. Adding to the excitement, my first PhD student, Mr. Xi Lu, won the 'Best Poster Pitch Award.' I couldn't be prouder! Even more thrilled than if I had won the award myself! <br/><img src='/images/NRR24.jpg'>
 * ***15 Oct 2024***. I was invited to give a presentation at the 3rd International Outstanding Young Scholars Environment Forum, hosted by School of Environment,Tsinghua University.
