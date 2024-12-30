@@ -48,7 +48,7 @@ Selected Awards
 
 News
 ---
-* ***[Invited Talk]*** *27 Dec 2024.* I was invited to give a presentation at the 12th Cheng Yao Young Scholars Forum, hosted by Nanjing University. <br/><img src='/images/NJU.jpg' alt="Description" style="width:800px; height:auto;">
+* ***[Invited Talk]*** *27 Dec 2024.* I was invited to give a presentation at the 12th Cheng Yao Young Scholars Forum, hosted by Nanjing University.
 * ***[Grant]*** *16 Dec 2024*. I was awarded the Theo Murphy Initiative Grant from Australian Academy of Science.
 * ***[Award]*** *29 Nov 2024*. I am so honored to recieve the Early Career Research  Award from the EAIT Faculty.<br/><img src='/images/ECR_Award.jpg' alt="Description" style="width:500px; height:auto;">
 * ***[Workshop]*** *22 Nov 2024*. Wrapped up the UQ-TUM workshop on Pathways to Resource Recovery from Wastewater in the Net-Zero Era. Many insights and heated debates on the conflicts between resources recovery & net zero.<br/><img src='/images/UQ_TUM workshop.jpg' alt="Description" style="width:500px; height:auto;">
