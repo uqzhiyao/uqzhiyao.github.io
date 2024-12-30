@@ -34,7 +34,7 @@ Working Experience
 
 Selected Awards
 ---
-2024 **Early Career Research Excellence Award**, UQ Faculty of Enigneering, Architecture & Information Technology [Highly competitive, 1 out of > 100 ECRs from 7 shcools/centers in the faculty].
+2024 **Early Career Research Excellence Award**, UQ Faculty of Engineering, Architecture & Information Technology [Highly competitive, 1 out of > 100 early career researchers from 7 schools/centers in the faculty].
 
 2022 **Outstanding Doctoral Dissertation Award** (Honourable Mention), Association of Environmental Engineering and Science Professors (AEESP). One of the most prestigious PhD thesis award in the field of Environmental Science and Technology. The only non-US recipient over the past 10 years. [link](https://www.aeesp.org/news/2022-aeesp-award-recipients)
 
