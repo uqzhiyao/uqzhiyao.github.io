@@ -48,9 +48,10 @@ Selected Awards
 
 News
 ---
-* ***[Grant]*** *16 Dec 2024*. I was awarded the Theo Murphy Initiative Grant from Australian Academy of Science.
+* ***[Invited Talk]*** *27 Dec 2024.* I was invited to give a presentation at the 12th Cheng Yao Young Scholars Forum, hosted by Nanjing University.
+* ***[Grant]*** *16 Dec 2024*. I was awarded the Theo Murphy Initiative Grant from Australian Academy of Science.<br/><img src='/images/NJU.jpg' alt="Description" style="width:500px; height:auto;">
 * ***[Award]*** *29 Nov 2024*. I am so honored to recieve the Early Career Research  Award from the EAIT Faculty.<br/><img src='/images/ECR_Award.jpg' alt="Description" style="width:500px; height:auto;">
-* **[Workshop]** *22 Nov 2024*. Wrapped up the UQ-TUM workshop on Pathways to Resource Recovery from Wastewater in the Net-Zero Era. Many insights and heated debates on the conflicts between resources recovery & net zero.<br/><img src='/images/UQ_TUM workshop.jpg' alt="Description" style="width:500px; height:auto;">
+* ***[Workshop]*** *22 Nov 2024*. Wrapped up the UQ-TUM workshop on Pathways to Resource Recovery from Wastewater in the Net-Zero Era. Many insights and heated debates on the conflicts between resources recovery & net zero.<br/><img src='/images/UQ_TUM workshop.jpg' alt="Description" style="width:500px; height:auto;">
 * ***[Conference&Award]*** *20 Nov 2024.* Wrapped up the IWA NRR24 Conference in Brisbane—a milestone for me as it was my first time helping to organize an international conference. Adding to the excitement, my first PhD student, Mr. Xi Lu, won the 'Best Poster Pitch Award.' I couldn't be prouder! Even more thrilled than if I had won the award myself! <br/><img src='/images/NRR24.jpg' alt="Description" style="width:500px; height:auto;">
 *  ***[Invited Talk]*** *15 Oct 2024.* I was invited to give a presentation at the 3rd International Outstanding Young Scholars Environment Forum, hosted by School of Environment,Tsinghua University.
 * ***[Paper]*** *7 Oct 2024*. Our paper "Surface-adhered Micro-bubbles Enhance the Resistance of ANAMMOX Granular Sludge to Sulfamethoxazole Stress" has been accepted by Environmental Science & Technology. This is my first paper as the last senior author! [Link](https://doi.org/10.1021/acs.est.4c09429).
