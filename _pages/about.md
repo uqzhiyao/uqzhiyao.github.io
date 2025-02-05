@@ -48,6 +48,7 @@ Selected Awards
 
 News
 ---
+* ***[Paper]*** *26 Jan 2025.* Our paper "Insights into the start-up of acidic nitritation using conventional activated sludge: Process dynamics, nitrifiers succession, and pilot-scale demonstration" has been accepted by Water Research. Check it out via [Link](https://doi.org/10.1016/j.watres.2025.123208).
 * ***[Invited Talk]*** *27 Dec 2024.* I was invited to give a presentation at the 12th Cheng Yao Young Scholars Forum, hosted by Nanjing University.
 * ***[Grant]*** *16 Dec 2024*. I was awarded the Theo Murphy Initiative Grant from Australian Academy of Science.
 * ***[Award]*** *29 Nov 2024*. I am so honored to recieve the Early Career Research  Award from the EAIT Faculty.<br/><img src='/images/ECR_Award.jpg' alt="Description" style="width:500px; height:auto;">
