@@ -9,7 +9,7 @@ author_profile: true
 
 ## PhD students
 ---
-* **Nova Maulani (Associate Adviosr, 30%)**	
+* **Nova Maulani (Associate Adviosr, 30%)**
 	* 	2019-2024
 	* 	Thesis: Isolation and understanding of a novel acid-tolerant heterotrophic denitrifier in acidic wastewater treatment systems
 * **Xi Lu (Principal Advisor, 60%)**
@@ -20,10 +20,14 @@ author_profile: true
 	* Thesis: In-depth understanding of the acidic activated sludge process and its application to sustainable wastewater treatment
 * **Lu Fu (Principal Advisor, 50%)**
 	* 2024-2028
-	* Thesis: Understanding nitrous oxide emissions from high-strenth wastewater treatment
-* **Hao Wang (Principal Advisor, 50%)**
+	* Thesis: Understanding nitrous oxide emissions from municipal high-strenth wastewater treatment
+* **Hao Wang (Associate Advisor, 50%)**
 	* 2024-2028
 	* Thesis: Understanding nitrous oxide emissions from aerobic sludge digestion systems
+* **Leon Wu (Associate Advisor, 20%)**
+	* 2025-2029
+	* Thesis: Full-scale nitrous oxide emissions quantification and mitigation under salinity stress
+	
 
 ## Thesis-based Master Students
 ---
