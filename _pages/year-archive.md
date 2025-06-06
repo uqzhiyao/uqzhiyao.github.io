@@ -20,10 +20,10 @@ author_profile: true
 	* Thesis: In-depth understanding of the acidic activated sludge process and its application to sustainable wastewater treatment
 * **Lu Fu (Principal Advisor, 50%)**
 	* 2024-2028
-	* Thesis: Understanding nitrous oxide emissions from municipal high-strenth wastewater treatment
+	* Thesis: Mechanistic insights and mitigation strategies for nitrous oxide emissions from municipal high-strenth wastewater treatment
 * **Hao Wang (Associate Advisor, 50%)**
 	* 2024-2028
-	* Thesis: Understanding nitrous oxide emissions from aerobic sludge digestion systems
+	* Thesis: Biological removal of methane and nitrous oxide in offgas collected from sewer systems
 * **Leon Wu (Associate Advisor, 20%)**
 	* 2025-2029
 	* Thesis: Full-scale nitrous oxide emissions quantification and mitigation under salinity stress
