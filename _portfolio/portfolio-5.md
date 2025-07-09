@@ -1,6 +1,6 @@
 ---
 title: "Acidic Aerobic Digestion to Reduce Emissions from Sewage Sludge"
-excerpt: "ARC Early Career Industry Fellow  (AUD 850K, lead CI) <br/><img src='/images/IE25-1.png' alt="Description" style="width:300px; height:auto;">"
+excerpt: "ARC Early Career Industry Fellow  (AUD 850K, lead CI) <br/><img src='/images/IE25-1.png'>"
 collection: portfolio
 ---
 **Partner**: South Australia Water
