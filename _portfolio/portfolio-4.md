@@ -1,6 +1,6 @@
 ---
 title: "Pathways to Resource Recovery from Wastewater in the Net-Zero Era"
-excerpt: "UQ-TUM Workshop Grant Scheme  (AUD 10K, 2nd CI) <br/><img src='/images/UQ_TUM.png alt="Description" style="width:200px; height:auto;'>"
+excerpt: "UQ-TUM Workshop Grant Scheme  (AUD 10K, 2nd CI) <br/><img src='/images/UQ_TUM.png'>"
 collection: portfolio
 ---
 **Partner**: Technical University of Munich
