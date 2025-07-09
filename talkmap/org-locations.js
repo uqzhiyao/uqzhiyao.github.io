@@ -6,13 +6,13 @@ var addressPoints = [
   ],
   [
     "Brisbane, Australia",
-    -27.4689682,
-    153.0234991
+    -27.4689623,
+    153.0235009
   ],
   [
     "Hong Kong",
-    22.2793278,
-    114.1628131
+    22.350627,
+    114.1849161
   ],
   [
     "Hangzhou, China",
@@ -23,6 +23,11 @@ var addressPoints = [
     "Sydney, Australia",
     -33.8698439,
     151.2082848
+  ],
+  [
+    "Bremen, Germany",
+    53.0758196,
+    8.8071646
   ],
   [
     "Helsinki, Finland",
