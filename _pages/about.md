@@ -48,7 +48,8 @@ Selected Awards
 
 News
 ---
-* ***[Grant]*** *9 July 2025*. I received ARC Early Career Industry Fellowship, with a cash budget totalling AUD 850,178. 
+* ***[🏆Award]*** *2 Oct 2025*. Our project "Revolutionising sludge management, turning costly waste into a safe product" won 2025 AWA QLD R&D Excellence Award.
+* ***[Grant]*** *9 July 2025*. I received ARC Early Career Industry Fellowship, with a cash budget totalling AUD 850,178.
 * ***[Conference Talk]*** *22 June 2025.* My talk was selected as the Best Presentation at the ECR workshop of the ICoN9 conference hosted by MPI, Bremen, earning me the opportunity to present it twice.
 * ***[Paper]*** *03 Mar 2025.* Our paper "Upgrading waste activated sludge into valuable biosolids via an integrated biochemical approach" has been accepted by Water Research X. Check it out via [Link](https://doi.org/10.1016/j.wroa.2025.100325).
 * ***[Paper]*** *26 Jan 2025.* Our paper "Insights into the start-up of acidic nitritation using conventional activated sludge: Process dynamics, nitrifiers succession, and pilot-scale demonstration" has been accepted by Water Research. Check it out via [Link](https://doi.org/10.1016/j.watres.2025.123208).
