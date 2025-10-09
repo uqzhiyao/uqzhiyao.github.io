@@ -48,6 +48,7 @@ Selected Awards
 
 News
 ---
+* ***[📜Paper]*** *08 Oct 2025.* Our paper "Substantial ammonia emissions from sludge drying pans in wastewater treatment plants" has finally come online. While many studies have looked at N2O, CH4, CO2 emissions from wastewater treatment plants, in this study, we reveal for the first time, that sludge drying pan is a significant-yet-overlooked source of ammonia. This work is a nice collaboration with University of Melbourne and Melbourne Water Corporation. Check it out via [Link](https://doi.org/10.1038/s44221-025-00479-8).
 * ***[🏆Award]*** *2 Oct 2025*. Our project "Revolutionising sludge management, turning costly waste into a safe product" won 2025 AWA QLD R&D Excellence Award.
 * ***[💸Grant]*** *10 Sep 2025*. We were awarded AUD 10,000 by Department of the Environment, Tourism, Science and Innovation (DETSI), supporting the bid for ARC Research Hub this year.
 * ***[💸Grant]*** *9 July 2025*. I received ARC Early Career Industry Fellowship, with a cash budget totalling AUD 850,178.
