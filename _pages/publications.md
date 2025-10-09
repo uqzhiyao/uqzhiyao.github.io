@@ -12,7 +12,7 @@ author_profile: true
 ## Journal Papers (First and corresponding (*) authorships)
 ---
 
-* Bai, M.,<sup>1,*</sup> ***Wang, Z***.,<sup>1,*</sup> Seneviratne, D., Lloyd, J., Jong, D.P., Ye, L., Chen, D. (2025). Substantial ammonia emissions from sludge drying pans in wastewater treatment plants. ***Nature Water***. [link](https://doi.org/10.1038/s44221-025-00479-8)
+* Bai, M.,<sup>1,*</sup> ***Wang, Z.***, Seneviratne, D., Lloyd, J., Jong, D.P., Ye, L., Chen, D. (2025). Substantial ammonia emissions from sludge drying pans in wastewater treatment plants. ***Nature Water***. [link](https://doi.org/10.1038/s44221-025-00479-8)
 * Jiang, Y., Lou, X., Wang, M., Zheng, M., ***Wang, Z.***,* Chen, H.* (2025). Genetic and transcriptional profiles of ammonia oxidizing communities in Bohai sediments: abundance, activity, and environmental correlations. ***Frontiers in Microbiology***, 16, 1611213. [link](https://doi.org/10.3389/fmicb.2025.1611213)
 * Lu, X., **_Wang, Z._**,* Kong, Z., Duan, H., Zuo, Z.,  Hu, Z., Zheng, M., Hu, S. (2025) Upgrading waste activated sludge into valuable biosolids via an integrated biochemical approach. ***Water Research X***, 100325. [link](https://doi.org/10.1016/j.wroa.2025.100325)
 * Kong, Z., **_Wang, Z._**,* Hu, Z., Song, Y., Xu, D., Li, G., Dwyer, J., Hu, S. (2025). Insights into the start-up of acidic nitritation using conventional activated sludge: Process dynamics, nitrifiers succession, and pilot-scale demonstration. ***Water Research***, 123208. [link](https://doi.org/10.1016/j.watres.2025.123208)
