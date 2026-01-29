@@ -25,8 +25,9 @@ Education
 
 Working Experience
 ---
+**Assistant Professor**, Zhejiang University, 02/2026 - present
 
-**Research Fellow**, University of Queensland, 05/2024 - present
+**Research Fellow**, University of Queensland, 05/2024 - 01/2026
 
 **Postdoctoral Research Fellow**, University of Queensland, 06/2021 - 04/2024
 
@@ -48,6 +49,9 @@ Selected Awards
 
 News
 ---
+* ***[Career]*** *26 Jan 2026.* I am starting a new position in Zhejiang University as an Assistant Professor. Back to where I came from!!!
+* ***[📜Paper]*** *10 Jan 2026.* Our paper "Rapid Waste Activated Sludge Reduction and Stabilization via a Biofilm-based Acidic Aerobic Digestion Process" has been accepted by Environmental Science & Technology. Check it out via [Link](https://doi.org/10.1021/acs.est.5c08428).
+* ***[👩‍💻Service]*** *01 Jan 2026.* I accepted the invitation to join Water Science & Technology as a Senior Editor, overseeing the sludge management section.
 * ***[📜Paper]*** *08 Oct 2025.* Our paper "Substantial ammonia emissions from sludge drying pans in wastewater treatment plants" has finally come online. While many studies have looked at N2O, CH4, CO2 emissions from wastewater treatment plants, in this study, we reveal for the first time, that sludge drying pan is a significant-yet-overlooked source of ammonia. This work is a nice collaboration with University of Melbourne and Melbourne Water Corporation. Check it out via [Link](https://doi.org/10.1038/s44221-025-00479-8).
 * ***[🏆Award]*** *2 Oct 2025*. Our project "Revolutionising sludge management, turning costly waste into a safe product" won 2025 AWA QLD R&D Excellence Award.
 * ***[💸Grant]*** *10 Sep 2025*. We were awarded AUD 10,000 by Department of the Environment, Tourism, Science and Innovation (DETSI), supporting the bid for ARC Research Hub this year.
