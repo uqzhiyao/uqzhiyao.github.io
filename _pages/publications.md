@@ -11,7 +11,9 @@ author_profile: true
 
 ## Journal Papers (First and corresponding (*) authorships)
 ---
-
+* Kong, Z., Wang, Z.*, Song, Y., Niu, C., Lu, X., Chai, H., & Hu, S. (2026). Dual Effects of In Situ Free Nitrous Acid Accumulation on Membrane Fouling in Acidic Membrane Bioreactors. ***Environmental Science & Technology***, in press. [link](https://doi.org/10.1021/acs.est.5c14655)
+* Xu, D., ***Wang, Z.***,* Pan, C., Chen, W., Zhang, M, Zheng, P., Guo, J. (2026) Granular stratification enables stable and efficient nitrogen removal in anammox sludge bed reactors. ***Environmental Science & Technology***, 60, 11, 8593–8602. [link](https://doi.org/10.1021/acs.est.5c17171)
+* Lu, X., ***Wang, Z.***,* Kong, Z., Duan, H., Zuo, Z., Hu, Z., ... & Hu, S. (2026). Rapid Waste Activated Sludge Reduction and Stabilization via a Biofilm-Based Acidic Aerobic Digestion Process. ***Environmental Science & Technology***, 60, 4, 3352–3363. [link](https://doi.org/10.1021/acs.est.5c08428)
 * Bai, M.,^* **_Wang, Z._**,^* Seneviratne, D., Lloyd, J., Jong, D.P., Ye, L., Chen, D. (2025). Substantial ammonia emissions from sludge drying pans in wastewater treatment plants. ***Nature Water***. [link](https://doi.org/10.1038/s44221-025-00479-8) (^ equal contribution)
 * Jiang, Y., Lou, X., Wang, M., Zheng, M., ***Wang, Z.***,* Chen, H.* (2025). Genetic and transcriptional profiles of ammonia oxidizing communities in Bohai sediments: abundance, activity, and environmental correlations. ***Frontiers in Microbiology***, 16, 1611213. [link](https://doi.org/10.3389/fmicb.2025.1611213)
 * Lu, X., **_Wang, Z._**,* Kong, Z., Duan, H., Zuo, Z.,  Hu, Z., Zheng, M., Hu, S. (2025) Upgrading waste activated sludge into valuable biosolids via an integrated biochemical approach. ***Water Research X***, 100325. [link](https://doi.org/10.1016/j.wroa.2025.100325)
