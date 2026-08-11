@@ -50,7 +50,7 @@ Selected Awards
 News
 ---
 * ***[💸Grant]*** *10 Aug 2026.* I was awarded a project of "Artificial Intelligence National Science and Technology Major Program (2026)" on "Data Governance Toolchain & Augmentation for Urban Water Systems"!!!
-* ***[📜Paper]*** *2 June 2026.* Our paper "A Novel Freshwater Anammox Species of Candidatus Loosdrechtia Thriving Under Dual Salinity and Sulfate Stresses" has been accepted by WEnvironmental Science & Technology.
+* ***[📜Paper]*** *2 June 2026.* Our paper "A Novel Freshwater Anammox Species of Candidatus Loosdrechtia Thriving Under Dual Salinity and Sulfate Stresses" has been accepted by Environmental Science & Technology.
 * ***[💸Grant]*** *19 May 2026.* Our linkage project “Reducing Sewage Greenhouse Gas Emissions via Direct Off-gas Treatment” was funded.
 * ***[📜Paper]*** *24 Mar 2026.* Our paper "Deciphering Energy Trade-offs and Dormancy Mechanisms in a PCB-degrading Bacterium Rhodococcus biphenylivorans TG9 under Acid Stress" has been accepted by Water Research X.
 * ***[📜Paper]*** *14 Mar 2026.* Our paper "Dual Effects of In Situ Free Nitrous Acid Accumulation on Membrane Fouling in Acidic Membrane Bioreactors" has been published in Environmental Science & Technology. Check it out via [Link](https://doi.org/10.1021/acs.est.5c14655).

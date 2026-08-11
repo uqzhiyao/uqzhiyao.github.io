@@ -11,6 +11,8 @@ author_profile: true
 
 ## Journal Papers (First and corresponding (*) authorships)
 ---
+* Li, W., ***Wang, Z.***,* Fu, H., Ma, Y., Gu, Y., Zhuang, J.,* Zhao, Y., Liu, Y., Yang, Q., Shapleigh, J., Jin, R., Guo, J., Kartal, B., & Rittmann, B. (2026). A Novel Freshwater Anammox Species of Candidatus Loosdrechtia Thriving Under Dual Salinity and Sulfate Stresses. ***Environmental Science & Technology*** [link](https://doi.org/10.1021/acs.est.6c03295)
+* Fan, J.,^ Xu, D.,^ ***Wang, Z.***,* Fu, Y., Su, X., Hu, S., & Shen, C.* (2026). Deciphering Energy Trade-offs and Dormancy Mechanisms in a PCB-degrading Bacterium Rhodococcus biphenylivorans TG9 under Acid Stress. ***Water Research X*** [link](https://doi.org/10.1016/j.wroa.2026.100530)
 * Kong, Z., ***Wang, Z.***,* Song, Y., Niu, C., Lu, X., Chai, H., & Hu, S. (2026). Dual Effects of In Situ Free Nitrous Acid Accumulation on Membrane Fouling in Acidic Membrane Bioreactors. ***Environmental Science & Technology***, in press. [link](https://doi.org/10.1021/acs.est.5c14655)
 * Xu, D., ***Wang, Z.***,* Pan, C., Chen, W., Zhang, M, Zheng, P., Guo, J. (2026) Granular stratification enables stable and efficient nitrogen removal in anammox sludge bed reactors. ***Environmental Science & Technology***, 60, 11, 8593–8602. [link](https://doi.org/10.1021/acs.est.5c17171)
 * Lu, X., ***Wang, Z.***,* Kong, Z., Duan, H., Zuo, Z., Hu, Z., ... & Hu, S. (2026). Rapid Waste Activated Sludge Reduction and Stabilization via a Biofilm-Based Acidic Aerobic Digestion Process. ***Environmental Science & Technology***, 60, 4, 3352–3363. [link](https://doi.org/10.1021/acs.est.5c08428)
