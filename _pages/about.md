@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at College of Environment and Resources, Zhejiang University. My research interests include  **_innovative nutrient removal and recovery (NRR) technologies, reduction of greenhouse gases (GHG) emissions, nitrogen conversion-related novel microorganisms and physiochemical reactions_**.
+I am an Assistant Professor at College of Environment and Resources, Zhejiang University. My research focuses on the physiology, ecology, and energy and material metabolism of microorganisms under acidic conditions. I aim to translate these fundamental insights into a new paradigm of environmental biotechnology, enabling greener, low-carbon, and more efficient pollutant removal and energy and resource recovery.
 
 Education
 ---
@@ -48,6 +48,7 @@ Selected Awards
 2020 **Research Opportunities Travel Award,**, Technical University Munich, Germany [50 per year/worldwide to attract high-profile early-career researchers]
 
 News
+---
 * ***[🏆Award]*** *1 Oct 2026*. My 1st PhD student Dr Xi Lu won the "Processes Best PhD Thesis Award". Huge congratulations!!!!😆😆😆
 * ***[💸Grant]*** *10 Aug 2026.* I was awarded a project of "Artificial Intelligence National Science and Technology Major Program (2026)" on "Data Governance Toolchain & Augmentation for Urban Water Systems"!!!
 * ***[📜Paper]*** *2 June 2026.* Our paper "A Novel Freshwater Anammox Species of Candidatus Loosdrechtia Thriving Under Dual Salinity and Sulfate Stresses" has been accepted by Environmental Science & Technology.
